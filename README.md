@@ -9,10 +9,10 @@ npm install
 #localhost:8080
 npm run dev
 ## 效果图如下：
-头部效果图：
+>头部效果图：
 ![Image text](https://github.com/yuanxin666/360page/blob/master/imgs/QQ图片20180912184744.png)
-广告位效果图
+>广告位效果图
 ![Image text](https://github.com/yuanxin666/360page/blob/master/imgs/QQ图片20180912184807.png)
-尾部效果图
+>尾部效果图
 ![Image text](https://github.com/yuanxin666/360page/blob/master/imgs/QQ图片20180912184822.png)
-=.=，都看到这了给个star吧，star！star！star！star！star！哈哈
+>=.=，都看到这了给个star吧，star！star！star！star！star！哈哈
