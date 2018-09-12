@@ -12,3 +12,4 @@ npm run dev
 ![Image text](https://github.com/yuanxin666/360page/blob/master/imgs/QQ图片20180912184744.png)
 ![Image text](https://github.com/yuanxin666/360page/blob/master/imgs/QQ图片20180912184807.png)
 ![Image text](https://github.com/yuanxin666/360page/blob/master/imgs/QQ图片20180912184822.png)
+=.=，都看到这了给个star吧，star！star！star！star！star！哈哈
