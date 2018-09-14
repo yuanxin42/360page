@@ -5,8 +5,7 @@
                 <a href="https://www.360.cn/"><img src="../../assets/img/t01d91636862957f76e.png" alt="#"></a>
             </div>
             <div class="titMiddle">
-                <input type="text">
-                <button>360搜索</button>
+                <sousuo></sousuo>
             </div>
             <div class="titRight">
                 <div class="user-btn">
@@ -24,11 +23,15 @@
 </template>
 
 <script>
+import sousuo from '../common/sousuo'
 export default {
   data () {
     return {
       msg: ''
     }
+  },
+  components: {
+    sousuo
   }
 }
 </script>
