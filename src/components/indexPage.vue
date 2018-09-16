@@ -2,22 +2,26 @@
  <div class="main">
     <pagehead></pagehead>
     <pagenav></pagenav>
+     <lunbo></lunbo>
+    <h3>2342343</h3>
   </div>
 </template>
 
 <script>
 import pagehead from './indexPage/pagehead'
 import pagenav from './indexPage/pagenav'
+import lunbo from './indexPage/lunbo'
 export default {
   name: 'indexPage',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: ''
     }
   },
   components: {
     pagehead,
-    pagenav
+    pagenav,
+    lunbo
   }
 }
 </script>
