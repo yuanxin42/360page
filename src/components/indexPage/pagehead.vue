@@ -2,7 +2,7 @@
     <div class="head">
         <div class="headTit">
             <div class="titLeft">
-                <a href="https://www.360.cn/"><img src="../../assets/img/t01d91636862957f76e.png" alt="#"></a>
+                <a href="https://www.360.cn/"><img src="../../assets/imgs/t01d91636862957f76e.png" alt="#"></a>
             </div>
             <div class="titMiddle">
                 <sousuo></sousuo>
@@ -43,8 +43,8 @@ export default {
     height: 44px;
     line-height: 44px;
     overflow: hidden;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     // background: red;
     margin: 0 auto;
     .titLeft {

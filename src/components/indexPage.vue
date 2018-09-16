@@ -2,7 +2,7 @@
  <div class="main">
     <pagehead></pagehead>
     <pagenav></pagenav>
-     <lunbo></lunbo>
+    <lunbo></lunbo>
     <h3>2342343</h3>
   </div>
 </template>

@@ -65,6 +65,7 @@ export default {
         transition: all 0.5s ease;
         position: absolute;
         overflow: hidden;
+        z-index: 1;
     }
 }
 </style>
