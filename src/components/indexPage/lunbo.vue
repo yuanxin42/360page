@@ -188,6 +188,7 @@ export default {
     // height: 110px;
     // background: red;
     margin: 0 auto;
+    margin-bottom: 15px;
     display: flex;
     .items{
       width: 33.3%;
