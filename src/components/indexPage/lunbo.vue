@@ -56,7 +56,7 @@ export default {
       clearInterval(this.timer)
       this.timer = null
     },
-    changemark (index) {
+    changemark (index) { // 防止用户狂点，加个函数节流
       this.stoplunbo()
       if (!this.jieliu) {
         this.jieliu = setTimeout(() => {
@@ -80,7 +80,7 @@ export default {
           }
           this.jieliu = null
           this.runlunbo()
-        }, 200)
+        }, 500)
       }
     },
     lunboAdd () { // 防止用户狂点，加个函数节流
@@ -95,7 +95,7 @@ export default {
           }
           this.jieliu = null
           this.runlunbo()
-        }, 200)
+        }, 500)
       }
     },
     runlunbo () {
@@ -153,7 +153,8 @@ export default {
         width: 40px;
         height: 80px;
         font-size: 40px;
-        line-height: 70px;
+        line-height: 80px;
+        font-family:Arial;
         color: #fff;
         background: #333;
         opacity: 0.5;
@@ -184,7 +185,7 @@ export default {
 }
 .lunboItems{
     width: @pagewidth;
-    height: 110px;
+    // height: 110px;
     // background: red;
     margin: 0 auto;
     display: flex;

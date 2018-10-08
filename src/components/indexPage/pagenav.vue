@@ -12,7 +12,7 @@
     </div>
 </template>
 <script>
-import navobj from './navjson'
+import navobj from './navjson.json'
 export default {
   data () {
     return {
