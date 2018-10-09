@@ -1,5 +1,9 @@
 @pagewidth:1240px;
 @green:#23ac38;
+body {
+  font-family: arial, "Microsoft YaHei", "\5fae\8f6f\96c5\9ed1";
+  color: #333;
+}
 *{
     margin: 0;
     padding: 0;
@@ -10,6 +14,7 @@ li{
 a{
     text-decoration: none;
     color: #333;
+    text-align: center;
 }
 a:target{
     color: #333;
@@ -17,3 +22,22 @@ a:target{
 a:hover{
     color: #23ac38;
 }
+.pageTitle() {  // 导航条上面的 | 最新动态 --- 更多  样式直接引
+        font-weight: normal;
+        font-size: 20px;
+        padding-left: 10px;
+        background: url(//p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png) no-repeat left 4px;
+        height: 27px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        display: flex; // display:flex;
+        justify-content: space-between; // position: relative;
+        .more {
+            line-height: 28px;
+            color: #999;
+            font-size: 14px;
+        }
+        .more:hover {
+            color: @green
+        }
+    }

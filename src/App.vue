@@ -12,8 +12,5 @@ export default {
 
 <style>
 @import "./assets/css/common.less";
-*{
-  margin: 0;
-  padding: 0;
-}
+
 </style>

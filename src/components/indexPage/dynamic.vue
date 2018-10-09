@@ -136,25 +136,6 @@ export default {
     margin: 0 auto; // background: red;
     display: flex; // display:flex;
     justify-content: space-between;
-    .pageTitle() {
-        font-weight: normal;
-        font-size: 20px;
-        padding-left: 10px;
-        background: url(//p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png) no-repeat left 4px;
-        height: 27px;
-        margin-top: 15px;
-        margin-bottom: 15px;
-        display: flex; // display:flex;
-        justify-content: space-between; // position: relative;
-        .more {
-            line-height: 28px;
-            color: #999;
-            font-size: 14px;
-        }
-        .more:hover {
-            color: @green
-        }
-    }
     .newBlock {
         width: 898px;
         height: 290px; // background: blue;
@@ -169,10 +150,17 @@ export default {
                     margin-bottom: 12px;
                     height: 20px;
                     line-height: 20px;
-                    overflow: hidden;
-                    text-overflow: ellipsis;
-                    white-space: nowrap;
                     text-align: center;
+                    a {
+                        display: inline-block;
+                        height: 20px;
+                        line-height: 20px;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                        text-align: center;
+                        font-size: 14px;
+                    }
                 }
                 .picImg {
                     display: inline-block;
