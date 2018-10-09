@@ -124,6 +124,8 @@ export default {
     width: 100%;
     height: 440px;
     overflow: hidden;
+    font-size: 0;  // 解决ie浏览器的幽灵空白节点 参考文章
+    // https://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/
     img {
         display: block;
         width: 100%;

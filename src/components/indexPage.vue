@@ -5,6 +5,7 @@
     <lunbo></lunbo>
     <dynamic></dynamic>
     <software></software>
+    <advertising></advertising>
     <h3>2342343</h3>
   </div>
 </template>
@@ -15,6 +16,7 @@ import pagenav from './indexPage/pagenav'
 import lunbo from './indexPage/lunbo'
 import dynamic from './indexPage/dynamic'
 import software from './indexPage/software'
+import advertising from './indexPage/advertising'
 export default {
   name: 'indexPage',
   data () {
@@ -27,7 +29,8 @@ export default {
     pagenav,
     lunbo,
     dynamic,
-    software
+    software,
+    advertising
   }
 }
 </script>
