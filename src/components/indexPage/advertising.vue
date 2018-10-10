@@ -9,28 +9,28 @@
                     <a href="/n/10379.html">360安全大脑深度披露：曾经席卷全球的WannaCry为何堕入反杀之路？</a>
                 </div>
             </div>
-            <!-- <ul class="news-list">
-                                                        <li class="item need_to_fixed">
-                                                            <span class="cate"></span>
-                                                            <a href="/n/10381.html" title="给360安全大脑的一封信">给360安全大脑的一封信</a>
-                                                        </li>
-                                                        <li class="item need_to_fixed">
-                                                            <span class="cate"></span>
-                                                            <a href="/n/10393.html" title="2018全国网络安全周，三六零天御带你划重点">2018全国网络安全周，三六零天御带你划重点</a>
-                                                        </li>
-                                                        <li class="item need_to_fixed">
-                                                            <span class="cate"></span>
-                                                            <a href="/n/10394.html" title="区块链被黑最惨的一次，交完会费搞“失联”？">区块链被黑最惨的一次，交完会费搞“失联”？</a>
-                                                        </li>
-                                                        <li class="item need_to_fixed">
-                                                            <span class="cate"></span>
-                                                            <a href="/n/10402.html" title="让我留下眼泪的，不止假期已经远走......">让我留下眼泪的，不止假期已经远走......</a>
-                                                        </li>
-                                                        <li class="item need_to_fixed">
-                                                            <span class="cate"></span>
-                                                            <a href="/n/10389.html" title="360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！">360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！</a>
-                                                        </li>
-                                                    </ul> -->
+            <ul class="news-list">
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10381.html" title="给360安全大脑的一封信">给360安全大脑的一封信</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10393.html" title="2018全国网络安全周，三六零天御带你划重点">2018全国网络安全周，三六零天御带你划重点</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10394.html" title="区块链被黑最惨的一次，交完会费搞“失联”？">区块链被黑最惨的一次，交完会费搞“失联”？</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10402.html" title="让我留下眼泪的，不止假期已经远走......">让我留下眼泪的，不止假期已经远走......</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10389.html" title="360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！">360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！</a>
+                </li>
+            </ul>
         </div>
         <div class="newsBlock">
             <div class="headline">
@@ -41,6 +41,28 @@
                     <a href="/n/10379.html">360安全大脑深度披露：曾经席卷全球的WannaCry为何堕入反杀之路？</a>
                 </div>
             </div>
+            <ul class="news-list">
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10381.html" title="给360安全大脑的一封信">给360安全大脑的一封信</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10393.html" title="2018全国网络安全周，三六零天御带你划重点">2018全国网络安全周，三六零天御带你划重点</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10394.html" title="区块链被黑最惨的一次，交完会费搞“失联”？">区块链被黑最惨的一次，交完会费搞“失联”？</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10402.html" title="让我留下眼泪的，不止假期已经远走......">让我留下眼泪的，不止假期已经远走......</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10389.html" title="360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！">360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！</a>
+                </li>
+            </ul>
         </div>
         <div class="newsBlock">
             <div class="headline">
@@ -51,6 +73,28 @@
                     <a href="/n/10379.html">360安全大脑深度披露：曾经席卷全球的WannaCry为何堕入反杀之路？</a>
                 </div>
             </div>
+            <ul class="news-list">
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10381.html" title="给360安全大脑的一封信">给360安全大脑的一封信</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10393.html" title="2018全国网络安全周，三六零天御带你划重点">2018全国网络安全周，三六零天御带你划重点</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10394.html" title="区块链被黑最惨的一次，交完会费搞“失联”？">区块链被黑最惨的一次，交完会费搞“失联”？</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10402.html" title="让我留下眼泪的，不止假期已经远走......">让我留下眼泪的，不止假期已经远走......</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10389.html" title="360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！">360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！</a>
+                </li>
+            </ul>
         </div>
         <div class="newsBlock">
             <div class="headline">
@@ -61,6 +105,28 @@
                     <a href="/n/10379.html">360安全大脑深度披露：曾经席卷全球的WannaCry为何堕入反杀之路？</a>
                 </div>
             </div>
+            <ul class="news-list">
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10381.html" title="给360安全大脑的一封信">给360安全大脑的一封信</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10393.html" title="2018全国网络安全周，三六零天御带你划重点">2018全国网络安全周，三六零天御带你划重点</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10394.html" title="区块链被黑最惨的一次，交完会费搞“失联”？">区块链被黑最惨的一次，交完会费搞“失联”？</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10402.html" title="让我留下眼泪的，不止假期已经远走......">让我留下眼泪的，不止假期已经远走......</a>
+                </li>
+                <li class="item need_to_fixed">
+                    <span class="cate"></span>
+                    <a href="/n/10389.html" title="360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！">360谭晓生获2018年网络安全优秀人才奖，全国仅10人上榜！</a>
+                </li>
+            </ul>
         </div>
     </div>
 </template>
@@ -80,7 +146,7 @@ export default {
 @import "../../assets/css/common.less";
 .news {
     width: @pagewidth;
-    height: 420px;
+    height: 370px;
     margin: 50px auto 0; // background: red;
     display: flex;
     .newsBlock {
@@ -120,6 +186,15 @@ export default {
                 a {
                     color: #fff;
                 }
+            }
+        }
+        .news-list {
+            padding: 10px 20px 0 20px;
+            .need_to_fixed {
+                height: 30px;
+                font-size: 13px;
+                line-height: 30px;
+                .overflow();
             }
         }
     }
